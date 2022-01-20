@@ -2,15 +2,13 @@
 ##Spotify Challenge 2010
 
 You are playing the following simple game with a friend:
-
-    The first player picks a positive integer X
-
-.
+The first player picks a positive integer X
+  
 
 The second player gives a list of k
-positive integers Y1,…,Yk such that (Y1+1)(Y2+1)⋯(Yk+1)=X, and gets k
+positive integers Y1,…,Yk such that (Y1+1)(Y2+1)⋯(Yk+1)=X, and gets k points.
 
-    points.
+    
 
 Write a program that plays the second player.
 
