@@ -19,3 +19,5 @@ The input consists of a single integer X satisfying 103≤X≤109, giving the nu
 
 ##Output
 Write a single integer k, giving the number of points obtained by the second player, assuming she plays as good as possible.
+
+**I have written this piece of code in python3**
